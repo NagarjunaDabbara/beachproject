@@ -8,25 +8,25 @@ export default class Services extends Component {
         icon: <FaCocktail />,
         title: "Free Cocktails",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "Enjoy World's best cocktails in wonderful atmosphere served by great bartenders."
       },
       {
         icon: <FaHiking />,
         title: "Endless Hiking",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "Spell-bound and searching for a genuine experience of the beautiful landscapes and natural world."
       },
       {
         icon: <FaShuttleVan />,
         title: "Free Shuttle",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "We provide pre-booked free shuttle bus services for all our customers from the train station and the airport."
       },
       {
         icon: <FaBeer />,
         title: "Strongest Beer",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "We are delighted to serve the World's strongest beer."
       }
     ]
   };
